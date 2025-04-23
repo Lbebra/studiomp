@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fotomp.ru/sitemap.xml
